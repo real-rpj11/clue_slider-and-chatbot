@@ -1,0 +1,24 @@
+{
+  "name": "clue_slider-and-chatbot",
+  "version": "1.0.0",
+  "description": "chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/real-rpj11/clue_slider-and-chatbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/real-rpj11/clue_slider-and-chatbot/issues"
+  },
+  "homepage": "https://github.com/real-rpj11/clue_slider-and-chatbot#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "socket.io": "^3.0.4"
+  }
+}
