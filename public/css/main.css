@@ -2,6 +2,48 @@
     width: 75vw;
     height: 90vh;
     margin: 20px auto;
-    padding: 10px;
     border: 2px solid black;
+    position: relative;
+}
+
+img {
+    width: 75px;
+}
+
+
+/* .topnav {
+    height: 100px;
+    background: skyblue;
+    margin: auto;
+} */
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.sidenav {
+    width: 20vw;
+    height: 91.2%;
+    background-color: #333333;
+    color: white;
+}
+
+.messages {
+    background-color: skyblue;
+    position: absolute;
 }
